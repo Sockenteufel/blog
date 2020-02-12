@@ -1,6 +1,6 @@
 ---
 layout: post
-title: La ventaja de la IA en la ITSM: Características y casos de uso
+title: "La ventaja de la IA en la ITSM: Características y casos de uso"
 ---
 
 La Inteligencia Artificial (IA) se está abriendo camino hacia la Gestión de Servicios de TI (ITSM), prometiendo redefinir la forma en que funcionan las cosas. Pero ¿cumplirá la IA su promesa y realmente hará que la ITSM sea más fácil y eficiente? Eso es lo que estamos explorando en esta serie de dos partes, "La ventaja de la IA en la ITSM".
